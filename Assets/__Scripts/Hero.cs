@@ -29,7 +29,7 @@ public class Hero : MonoBehaviour
         }
 
         ClearWeapons();
-        weapons[0].SetType(eWeaponType.watermelon);
+        weapons[0].SetType(eWeaponType.blaster);
     }
 
     // Update is called once per frame
